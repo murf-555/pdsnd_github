@@ -22,3 +22,5 @@ https://stackoverflow.com/questions/5137497/find-current-directory-and-files-dir
 
 I could not figure out how to filter out washington from the user data set. I discovered the answer here
 https://knowledge.udacity.com/questions/181095
+
+I could not do this without the help of my rescue dog Chispa, who remains a constant inspiration.
