@@ -24,5 +24,7 @@ I could not figure out how to filter out washington from the user data set. I di
 https://knowledge.udacity.com/questions/181095
 
 I could not do this without the help of my rescue dog Chispa, who remains a constant inspiration.
-
 I should also thank my wife or else I might get in trouble giving Credit to a dog and not my wife.
+
+##Known bug/limitations
+Gender data is only available for Chicago and New York City and not Washington
