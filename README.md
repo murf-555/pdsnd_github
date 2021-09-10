@@ -11,7 +11,7 @@ BikeShare_SDM_aug2021.py takes 3 csv files and is able to comute statistics usin
 This project formed part of the course work for my udacity programming for datascience with python Nanodegree
 
 ### Files used
-Files used: Chicago.csv, new_york_city.csv and washington.csv all downloadbale from udacity website
+Files used: chicago.csv, new_york_city.csv and washington.csv all downloadbale from udacity website
 
 ### Credits
 Credits:
