@@ -1,17 +1,24 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+23rd August 2021
 
 ### Project Title
-Replace the Project Title
+BikeShare_SDM_aug2021
 
 ### Description
-Describe what your project is about and what it does
+BikeShare_SDM_aug2021.py takes 3 csv files and is able to comute statistics using user defined inputs using numpy arrays.
+This project formed part of the course work for my udacity programming for datascience with python Nanodegree
 
 ### Files used
-Include the files used
+Files used: Chicago.csv, new_york_city.csv and washington.csv all downloadbale from udacity website
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits:
+Course outline provided at https://www.udacity.com/
 
+I used a script to output CWD original discovered here
+https://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory
+
+I could not figure out how to filter out washington from the user data set. I discovered the answer here
+https://knowledge.udacity.com/questions/181095
