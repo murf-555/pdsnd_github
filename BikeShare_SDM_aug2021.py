@@ -71,9 +71,9 @@ def get_filters():
         else:
             print('\nI am sorry but your input is invalid, please select a day of the week or "all" ')
 
-    print('\n','-'*40)
+    print('\n','-'*30)
     print('\n you have made the following selections:', '\n city: ', city.upper(), '\n month: ', month.upper(), '\n and day: ', day.upper(), '\n\n')
-    print('\n','-'*40)
+    print('\n','-'*30)
     return city, month, day
 
 
@@ -138,7 +138,7 @@ def time_stats(df):
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*30)
 
 
 def station_stats(df):
